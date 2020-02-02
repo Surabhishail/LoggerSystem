@@ -1,0 +1,142 @@
+Sat Feb  1 16:54:43 2020  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Sat Feb  1 16:54:43 2020  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Sat Feb  1 16:54:43 2020  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Sat Feb  1 16:54:43 2020  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Sat Feb  1 16:54:43 2020  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Sat Feb  1 16:54:43 2020  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Sat Feb  1 16:54:43 2020  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Sat Feb  1 16:54:43 2020  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Sat Feb  1 16:54:43 2020  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Sat Feb  1 16:54:43 2020  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Sat Feb  1 16:54:43 2020  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Sat Feb  1 16:54:43 2020  [ALWAYS]: Logging ostringstream using Direct Interface
+Sat Feb  1 16:54:43 2020  [ERROR]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [ALARM]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [ALWAYS]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [INFO]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [ERROR]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [ALARM]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [ALWAYS]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [INFO]: 
+	Error Details:
+	Package Name: Project1
+	Filename: file17
+	LineNo: 59
+
+
+Sat Feb  1 16:54:43 2020  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
+Sat Feb  1 16:56:59 2020  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Sat Feb  1 16:56:59 2020  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Sat Feb  1 16:56:59 2020  [ALARM]: Message Logged using Direct Interface, Log level: LOG_ALARM
+Sat Feb  1 16:56:59 2020  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Sat Feb  1 16:56:59 2020  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Message Logged using Direct Interface, Log level: LOG_BUFFER
+Sat Feb  1 16:56:59 2020  [TRACE]: Message Logged using Direct Interface, Log level: LOG_TRACE
+Sat Feb  1 16:56:59 2020  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Sat Feb  1 16:56:59 2020  [ALARM]: Message Logged using C++ Interface, Log level: LOG_ALARM
+Sat Feb  1 16:56:59 2020  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Message Logged using C++ Interface, Log level: LOG_INFO
+Sat Feb  1 16:56:59 2020  [INFO]: Message Logged using C++ Interface, Log level: LOG_BUFFER
+Sat Feb  1 16:56:59 2020  [TRACE]: Message Logged using C++ Interface, Log level: LOG_TRACE
+Sat Feb  1 16:56:59 2020  [ALWAYS]: Logging ostringstream using Direct Interface
+Sat Feb  1 16:56:59 2020  [ERROR]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [ALARM]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [ALWAYS]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [INFO]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [ERROR]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [ALARM]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [ALWAYS]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [INFO]: 
+	Error Details:
+	Package Name: Project7
+	Filename: file28
+	LineNo: 193
+
+
+Sat Feb  1 16:56:59 2020  [ALWAYS]: <=============================== END OF PROGRAM ===============================>

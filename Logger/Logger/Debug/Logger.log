@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\fulltimerole\myprojects\c++ modules\loggeronwindows\logger\logger\main.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Logger.vcxproj -> C:\FullTimeRole\MyProjects\C++ Modules\LoggerOnWindows\Logger\Debug\Logger.exe
